@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richmond
-- 👀 I’m interested in codding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Facebook @ Itz Richy Noble
