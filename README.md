@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Richmond
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML5
+- 👀 I’m interested in Web development, AI/ Machine Learning
+- 🌱 I Just concluded a HTML5 course and I own a Certificate on React for Beginners 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me Facebook @ Itz Richy Noble
-- 😄 Pronouns: 
+- 📫 How to reach me Gmail: richmondhenshaw35@gmail.com & WhatsApp: +234(0)7079332442
+-  😄 Pronouns: 
 - ⚡ Fun fact cool and honest
 
 <!---
